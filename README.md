@@ -6,7 +6,7 @@ Architecture Design → Implementation → Testing → Deployment → Maintenanc
 
 ---
 
-## 🛠️ **Core Technologies**
+##  **Core Technologies**
 
 ### **Languages**
 - C, C++, TypeScript, JavaScript, Python  
@@ -31,7 +31,7 @@ Architecture Design → Implementation → Testing → Deployment → Maintenanc
 
 ---
 
-## 📌 **My Commitment**
+##  **My Commitment**
 
 > “I will provide a mockup within 5 days for your review and continue refining it until you achieve the exact results you need.”
 
