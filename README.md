@@ -28,11 +28,13 @@ Architecture Design → Implementation → Testing → Deployment → Maintenanc
 - MySQL
 
 
-<h3 align="center">My Commitment</h3>
+<h1 align="center">My Commitment</h1>
+
 
 <p align="center">
 I will provide a mockup within 5 days for your review and continue refining it until you achieve the exact results you need.
 </p>
+
 
 ### Working with me means:
 -  No wasted time  
