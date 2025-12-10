@@ -31,7 +31,9 @@ Architecture Design → Implementation → Testing → Deployment → Maintenanc
 
 ##  **My Commitment**
 
-> “I will provide a mockup within 5 days for your review and continue refining it until you achieve the exact results you need.”
+<p align="center">
+I will provide a mockup within 5 days for your review and continue refining it until you achieve the exact results you need.
+</p>
 
 ### Working with me means:
 -  No wasted time  
