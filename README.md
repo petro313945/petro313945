@@ -28,10 +28,10 @@ Architecture Design → Implementation → Testing → Deployment → Maintenanc
 - MySQL
 
 
-<h1 align="center">My Commitment</h1>
+<h2>My Commitment</h2>
 
 
-<p align="center">
+<p>
 I will provide a mockup within 5 days for your review and continue refining it until you achieve the exact results you need.
 </p>
 
