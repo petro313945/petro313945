@@ -4,8 +4,6 @@
 Architecture Design → Implementation → Testing → Deployment → Maintenance & Extending
 </p>
 
----
-
 ##  **Core Technologies**
 
 ### **Languages**
