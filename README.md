@@ -1,5 +1,4 @@
-<h1 align="center">How's life been treating you?</h1>
-<h3 align="center">Top-Tier Web Developer with Ten-over</h3>
+<h1 align="center">Top-Tier Web Developer with Ten-over</h1>
 
 <p align="center">
 Architecture Design → Implementation → Testing → Deployment → Maintenance & Extending
