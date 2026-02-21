@@ -1,7 +1,3 @@
-Here is your improved and expanded version with the requested additions (Apps, Automation Workflow, API Integration, Flutter, Playwright, Selenium, etc.) while keeping your professional tone:
-
----
-
 <h1 align="center">Top-Tier Web & App Developer with 10+ Years Experience</h1>
 
 <p align="center">
